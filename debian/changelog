@@ -1,3 +1,9 @@
+mesa (21.2.1-1+deepin+0u1) unstable; urgency=medium
+
+  * Add pvr support for JH7110
+
+ -- Han Gao <gaohan@iscas.ac.cn>  Wed, 30 Nov 2022 21:11:42 +0800
+
 mesa (21.2.1-1) unstable; urgency=medium
 
   * New upstream release.
